@@ -23,7 +23,7 @@ Los estudiantes deben seguir estos pasos para añadir sus enlaces de repositorio
 ### Formato de Ejemplo
 
 ```markdown
-| Juan Pérez | [Mi Proyecto del Curso](https://github.com/juanperez/proyecto-curso) |
+| Jefry Erick Quispe Ramos | (https://github.com/JefryErick/Metodos-de-Optimizacion) |
 ```
 
 ## Recursos del Curso
